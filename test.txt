@@ -2,4 +2,4 @@ aaaaa
 bbbbb
 ccccc
 修改了的数据
-
+添加了ssh免登陆！！！
